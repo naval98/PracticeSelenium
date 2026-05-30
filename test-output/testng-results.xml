@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-29T22:07:51 IST" name="Default suite" finished-at="2026-05-29T22:07:51 IST" duration-ms="113">
+    <groups>
+    </groups>
+    <test started-at="2026-05-29T22:07:51 IST" name="Default test" finished-at="2026-05-29T22:07:51 IST" duration-ms="113">
+      <class name="Javaselenium.PracticeSelenium">
+        <test-method signature="FirstName()[pri:1, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="FirstName" finished-at="2026-05-29T22:07:51 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstName -->
+        <test-method signature="LastName()[pri:2, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="LastName" finished-at="2026-05-29T22:07:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LastName -->
+        <test-method signature="Address()[pri:3, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="Address" finished-at="2026-05-29T22:07:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Address -->
+        <test-method signature="City()[pri:4, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="City" finished-at="2026-05-29T22:07:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- City -->
+        <test-method signature="state()[pri:5, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="state" finished-at="2026-05-29T22:07:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- state -->
+        <test-method signature="zipcode()[pri:6, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="zipcode" finished-at="2026-05-29T22:07:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zipcode -->
+        <test-method signature="phone()[pri:7, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="phone" finished-at="2026-05-29T22:07:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phone -->
+        <test-method signature="SSN()[pri:8, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="SSN" finished-at="2026-05-29T22:07:51 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SSN -->
+        <test-method signature="username()[pri:9, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="username" finished-at="2026-05-29T22:07:51 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username -->
+        <test-method signature="password()[pri:10, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="password" finished-at="2026-05-29T22:07:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method signature="confirmpassword()[pri:11, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="confirmpassword" finished-at="2026-05-29T22:07:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmpassword -->
+        <test-method signature="Login()[pri:12, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="Login" finished-at="2026-05-29T22:07:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Register()[pri:13, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="Register" finished-at="2026-05-29T22:07:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method signature="NewAccount()[pri:14, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="NewAccount" finished-at="2026-05-29T22:07:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewAccount -->
+        <test-method signature="dropdown()[pri:15, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="dropdown" finished-at="2026-05-29T22:07:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+        <test-method signature="clickonopennewaccount()[pri:16, instance:Javaselenium.PracticeSelenium@5e0e82ae]" started-at="2026-05-29T22:07:51 IST" name="clickonopennewaccount" finished-at="2026-05-29T22:07:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonopennewaccount -->
+      </class> <!-- Javaselenium.PracticeSelenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
